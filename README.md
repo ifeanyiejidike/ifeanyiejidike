@@ -30,10 +30,10 @@ I close the gap between good work and how it looks online. As a full stack devel
 
 | Project | Description |
 |---|---|
-| 🔐 **[BlinkMail](https://github.com/ifeanyiejidike/blinkmail)** | Production-grade disposable email infrastructure — real-time inbox, OTP auto-extraction, zero-PII architecture |
-| 🎬 **[Social Movies Intl Ltd](https://github.com/ifeanyiejidike/socialmovies)** | Full site for a working Nollywood production studio — filmography, studio history, press |
-| 📚 **[CoursePilot](https://github.com/ifeanyiejidike/coursepilot)** | Production-grade e-learning platform with role-based dashboards and course browsing |
-| 🏠 **[Casafrique](https://github.com/ifeanyiejidike/casafrique)** | Private, invitation-only real estate platform for verified property buyers |
+| 🛒 **[ShoppixStore](https://github.com/ifeanyiejidike/ShoppixStore)** | Full-stack multi-vendor commerce platform for the Nigerian market — vendor management, product catalogs, cart & checkout, payment integration, Django REST + Next.js |
+| 🏢 **[baseline-app](https://github.com/ifeanyiejidike/baseline-app)** | Multi-tenant B2B SaaS monorepo built with Django, DRF, Next.js, PostgreSQL, Celery, and Redis — RBAC, audit logging, defense-in-depth tenant isolation |
+| ⛅ **[climaticweather](https://github.com/ifeanyiejidike/climaticweather)** | Production-grade weather platform with intelligent location discovery, real-time conditions, and resilient API-powered forecasts |
+| ⚛️ **[react-fundamentals-lab](https://github.com/ifeanyiejidike/react-fundamentals-lab)** | Structured practice repo covering core React patterns and fundamentals |
 
 ---
 
