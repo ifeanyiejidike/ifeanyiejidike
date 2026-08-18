@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ifeanyi Ejidike 👋</h1>
-<h3 align="center">Senior Full Stack Developer | Founder, Gravity Concepts</h3>
+<h3 align="center">Senior Full Stack Engineer | Founder, Gravity Concepts</h3>
 
 <p align="center">
 I build production-grade web systems — and the brands that stand behind them.
