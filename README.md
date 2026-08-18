@@ -52,6 +52,9 @@ I close the gap between good work and how it looks online. As a full stack devel
   <a href="https://www.gravity-concepts.com/"><img src="https://img.shields.io/badge/Website-gravity--concepts.com-6E56CF?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/ifeanyi-s-ejidike/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/gravityconcept"><img src="https://img.shields.io/badge/Twitter-@gravityconcept-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/ifeanyi.ejidike.7334"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bygravityconcepts/"><img src="https://img.shields.io/badge/Instagram-@bygravityconcepts-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.link/k9dm3u"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:simmyifeanyi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
