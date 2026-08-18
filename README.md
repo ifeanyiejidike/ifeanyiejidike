@@ -40,8 +40,8 @@ I close the gap between good work and how it looks online. As a full stack devel
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyiejidike&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeanyiejidike&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ifeanyiejidike&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ifeanyiejidike&hide_border=true" height="165" />
 </p>
 
 ---
