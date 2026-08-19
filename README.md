@@ -9,9 +9,9 @@ I build production-grade web systems — and the brands that stand behind them.
 
 ### About
 
-I close the gap between good work and how it looks online. As a full stack developer, I build the systems — as founder of **Gravity Concepts**, I make sure they convert.
+I close the gap between good work and how it looks online. As a full stack engineer, I build the systems — as founder of **Gravity Concepts**, I make sure they convert.
 
-- 🔭 Currently building **OrderLink**, a SaaS storefront platform for Nigerian sellers
+- 🔭 Currently building **Mercora**, a SaaS storefront platform for African sellers
 - 🛠️ Full stack across **React, Next.js, TypeScript, Python, Django**
 - 🎯 Focused on clean architecture, responsive systems, and production-grade delivery
 - 🌍 Based in Anambra State, Nigeria — working with clients globally
