@@ -30,6 +30,7 @@ I close the gap between good work and how it looks online. As a full stack engin
 
 | Project | Description |
 |---|---|
+| 🔍 **[LeakLens](https://github.com/ifeanyiejidike/leaklens_web)** | Automated website-audit engine — scores technical health and conversion quality, generates client-ready PDF reports, and runs scheduled recurring re-audits. Shipped as two repos: Next.js dashboard + Django REST API |
 | 🛒 **[ShoppixStore](https://github.com/ifeanyiejidike/ShoppixStore)** | Full-stack multi-vendor commerce platform for the Nigerian market — vendor management, product catalogs, cart & checkout, payment integration, Django REST + Next.js |
 | 🏢 **[baseline-app](https://github.com/ifeanyiejidike/baseline-app)** | Multi-tenant B2B SaaS monorepo built with Django, DRF, Next.js, PostgreSQL, Celery, and Redis — RBAC, audit logging, defense-in-depth tenant isolation |
 | ⛅ **[climaticweather](https://github.com/ifeanyiejidike/climaticweather)** | Production-grade weather platform with intelligent location discovery, real-time conditions, and resilient API-powered forecasts |
