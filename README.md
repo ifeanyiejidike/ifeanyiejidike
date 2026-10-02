@@ -50,7 +50,7 @@ I close the gap between good work and how it looks online. As a full stack engin
 ### Let's Connect
 
 <p align="left">
-  <a href="https://www.gravity-concepts.com/"><img src="https://img.shields.io/badge/Website-gravity--concepts.com-6E56CF?style=flat-square" /></a>
+  <a href="https://www.gravity-concepts.com/"><img src="https://img.shields.io/badge/Website-www.gravity--concepts.com-6E56CF?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/ifeanyi-s-ejidike/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/gravityconcept"><img src="https://img.shields.io/badge/X/Twitter-@gravityconcept-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://facebook.com/ifeanyi.ejidike.7334"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
