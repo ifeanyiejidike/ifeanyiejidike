@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ifeanyi-s-ejidike/"><img src="https://img.shields.io/badge/LinkedIn-Ifeanyi%20Ejidike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/gravityconcept"><img src="https://img.shields.io/badge/X-@gravityconcept-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/bygravityconcepts/"><img src="https://img.shields.io/badge/Instagram-@bygravityconcepts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/2347017954239?text=AUDIT"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/2347017954239?text=Hi%20Gravity%20Concepts%20%E2%80%94%20I%27d%20like%20a%20free%20brand%20audit%20for%20my%20business."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -74,12 +74,12 @@ One accountable partner across **brand, print, web, and hosting** — not five d
   <a href="https://www.linkedin.com/in/ifeanyi-s-ejidike/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/gravityconcept"><img src="https://img.shields.io/badge/X-@gravityconcept-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/bygravityconcepts/"><img src="https://img.shields.io/badge/Instagram-@bygravityconcepts-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/2347017954239?text=AUDIT"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/2347017954239?text=Hi%20Gravity%20Concepts%20%E2%80%94%20I%27d%20like%20a%20free%20brand%20audit%20for%20my%20business."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 **Studio:** Gravity Concepts — Design • Print • Web • Hosting  
 **Location:** Anambra State, Nigeria — serving clients worldwide  
-**Phone/WhatsApp:** [+234 701 795 4239](https://wa.me/2347017954239)  
+**Phone/WhatsApp:** [+234 701 795 4239](https://wa.me/2347017954239?text=Hi%20Gravity%20Concepts%20%E2%80%94%20I%27d%20like%20a%20free%20brand%20audit%20for%20my%20business.)  
 **Phone:** +234 903 219 2949  
 **Email:** contactgravityconcepts@gmail.com  
 **Website:** [www.gravity-concepts.com](https://www.gravity-concepts.com/)  
@@ -93,6 +93,6 @@ One accountable partner across **brand, print, web, and hosting** — not five d
 </p>
 
 <p align="center">
-  <strong><a href="https://wa.me/2347017954239?text=AUDIT">Message AUDIT on WhatsApp</a> for a free breakdown of what's costing you enquiries.</strong><br/>
+  <strong><a href="https://wa.me/2347017954239?text=Hi%20Gravity%20Concepts%20%E2%80%94%20I%27d%20like%20a%20free%20brand%20audit%20for%20my%20business.">Message AUDIT on WhatsApp</a> for a free breakdown of what's costing you enquiries.</strong><br/>
   <a href="https://www.gravity-concepts.com/">www.gravity-concepts.com</a>
 </p>
